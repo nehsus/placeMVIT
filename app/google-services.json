@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "925128854370",
+    "firebase_url": "https://placem9797.firebaseio.com",
+    "project_id": "placem9797",
+    "storage_bucket": "placem9797.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925128854370:android:797dcf16d855533c",
+        "android_client_info": {
+          "package_name": "com.nehsus.placeMVIT"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925128854370-v7t90rp0utuldcsgk201bebntfj8cqoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKdgg6RDuNbHkc80UyeAHIYsEwuaRcnHs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
